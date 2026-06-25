@@ -44,24 +44,7 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=srivastavaraj37&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaraj37&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://streak-stats.demolab.com?user=srivastavaraj37&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaraj37&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🚀 Contest Projects
 
 <p align="center">
 
@@ -102,6 +85,23 @@
 🎥 **Demo:** https://drive.google.com/file/d/1Y3SoVk7yhP7JwMxXjzXYTzWj-ubeMt1x/view
 
 🔗 **Repository:** https://github.com/srivastavaraj37/Robofest-winner-Bot---Maze-solver
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=srivastavaraj37&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaraj37&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="95%" src="https://streak-stats.demolab.com?user=srivastavaraj37&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaraj37&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
