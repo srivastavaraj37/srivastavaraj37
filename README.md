@@ -26,8 +26,8 @@
 - 🤖 Passionate about combining **AI, Robotics, and Embedded Systems** to build intelligent real-world solutions.
 - 🎯 Focused on developing autonomous systems that seamlessly integrate hardware and software.
 - 🏆 **e-Yantra Robotics Finalist**
-- 🥇 **Winner — Gujarat Robofest 5.0**
-- ⚙️ I enjoy designing complete robotic systems—from hardware and embedded firmware to intelligent software.
+- 🥇 **Winner - Gujarat Robofest 5.0**
+- ⚙️ I enjoy designing complete robotic systems - from hardware and embedded firmware to intelligent software.
 - 🌱 Currently learning **ROS2, Machine Learning, Deep Learning, and Computer Vision**.
 - 🧩 Practicing **Data Structures & Algorithms** on **LeetCode**.
 - 🤝 Open to collaborating on **Robotics, Embedded Systems, AI/ML, and Open Source** projects.
@@ -74,7 +74,7 @@
 ---
 
 ### 🏆 Autonomous Maze Solver Bot
-> **🥇 Winner — Gujarat Robofest 5.0**
+> **🥇 Winner - Gujarat Robofest 5.0**
 
 - Built a fully autonomous maze-solving robot using **ESP32** and multiple ToF sensors.
 - Explores unknown mazes using the **Trémaux Algorithm** and builds an internal map.
