@@ -21,8 +21,8 @@ AI • Robotics • Computer Vision • Embedded Systems
 - 🏆 **e-Yantra Robotics Finalist**
 - 🥇 **Winner — Gujarat Robofest 5.0**
 - ⚙️ I enjoy designing complete robotic systems—from hardware and embedded firmware to intelligent software.
-- 🧩 Practicing **Data Structures & Algorithms** on **LeetCode**.
 - 🌱 Currently learning **ROS2, Machine Learning, Deep Learning, and Computer Vision**.
+- 🧩 Practicing **Data Structures & Algorithms** on **LeetCode**.
 - 🤝 Open to collaborating on **Robotics, Embedded Systems, AI/ML, and Open Source** projects.
 - 💬 Ask me about **Robotics, Embedded Systems, Arduino, ESP32, Computer Vision, and Autonomous Navigation**.
 - 📍 India | 🎓 National Institute of Technology, Rourkela
@@ -80,11 +80,11 @@ AI • Robotics • Computer Vision • Embedded Systems
 ### 🤖 Balancing Builder Bot
 > **e-Yantra Robotics Competition (IIT Bombay)**
 
-- Self-balancing autonomous robot built using **Arduino Nano**, **MPU6050**, and **N20 geared motors**.
-- Real-time **PID control** for stable balancing and smooth motion.
+- Self-balancing autonomous robot built using **Arduino Nano**, **MPU6050**, and **300 RPM N20 geared motors**.
+- Implemented **real-time PID control** for dynamic balancing and smooth motion.
 - Supports autonomous navigation, object pickup, and transportation.
 - Designed under strict embedded hardware constraints.
-- **Tech:** Arduino • C++ • PID Control • MPU6050 • Embedded Systems
+- **Tech:** `Arduino` • `C++` • `PID Control` • `MPU6050` • `Embedded Systems`
 
 🎥 **Demo:** https://www.youtube.com/watch?v=4wdXCuPUqr4
 
@@ -95,15 +95,27 @@ AI • Robotics • Computer Vision • Embedded Systems
 ### 🏆 Autonomous Maze Solver Bot
 > **🥇 Winner — Gujarat Robofest 5.0**
 
-- Fully autonomous maze-solving robot powered by **ESP32** and multiple ToF sensors.
-- Explores unknown mazes using **Trémaux Algorithm** and builds an internal map.
-- Finds the optimal route using the **Flood Fill Algorithm**.
+- Built a fully autonomous maze-solving robot using **ESP32** and multiple ToF sensors.
+- Explores unknown mazes using the **Trémaux Algorithm** and builds an internal map.
+- Computes the shortest route using the **Flood Fill Algorithm**.
 - Supports dynamic obstacle detection and real-time path replanning.
-- **Tech:** ESP32 • Embedded C++ • Flood Fill • Trémaux • Sensor Fusion
+- **Tech:** `ESP32` • `Embedded C++` • `Flood Fill` • `Trémaux` • `Sensor Fusion`
 
 🎥 **Demo:** https://drive.google.com/file/d/1Y3SoVk7yhP7JwMxXjzXYTzWj-ubeMt1x/view
 
 🔗 **Repository:** https://github.com/srivastavaraj37/Robofest-winner-Bot---Maze-solver
+
+---
+
+# 💻 My Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/rajsrivastava3_0/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -115,10 +127,6 @@ AI • Robotics • Computer Vision • Embedded Systems
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/rajsrivastava3_0/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="mailto:srivastavraj37@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -128,7 +136,5 @@ AI • Robotics • Computer Vision • Embedded Systems
 ---
 
 <p align="center">
-
 <i>"Building intelligent machines that solve real-world problems."</i>
-
 </p>
