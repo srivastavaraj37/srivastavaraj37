@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Raj Srivastava</h1>
+<h1 align="center">Hey there 👋, I'm Raj Srivastava</h1>
 
 <h3 align="center">
-AI • Robotics • Computer Vision • Embedded Systems
+🤖 Robotics Developer &nbsp;|&nbsp;
+🧠 AI Enthusiast &nbsp;|&nbsp;
+👁️ Computer Vision &nbsp;|&nbsp;
+⚙️ Embedded Systems
 </h3>
 
+<h4 align="center">
+🎓 National Institute of Technology, Rourkela
+</h4>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Autonomous+Robots;AI+%7C+Robotics+%7C+Computer+Vision;Embedded+Systems+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Autonomous+Robots;AI+%7C+Robotics+%7C+Computer+Vision;Embedded+Systems+Developer;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -14,10 +21,10 @@ AI • Robotics • Computer Vision • Embedded Systems
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
 - 🤖 Passionate about combining **AI, Robotics, and Embedded Systems** to build intelligent real-world solutions.
-- 🎯 Focused on developing autonomous systems that bridge hardware and software.
+- 🎯 Focused on developing autonomous systems that seamlessly integrate hardware and software.
 - 🏆 **e-Yantra Robotics Finalist**
 - 🥇 **Winner — Gujarat Robofest 5.0**
 - ⚙️ I enjoy designing complete robotic systems—from hardware and embedded firmware to intelligent software.
@@ -25,16 +32,14 @@ AI • Robotics • Computer Vision • Embedded Systems
 - 🧩 Practicing **Data Structures & Algorithms** on **LeetCode**.
 - 🤝 Open to collaborating on **Robotics, Embedded Systems, AI/ML, and Open Source** projects.
 - 💬 Ask me about **Robotics, Embedded Systems, Arduino, ESP32, Computer Vision, and Autonomous Navigation**.
-- 📍 India | 🎓 National Institute of Technology, Rourkela
+- 📍 Based in India.
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,vscode,opencv,tensorflow,pytorch,arduino,raspberrypi,js,html,css"/>
-
 </p>
 
 ---
@@ -42,23 +47,16 @@ AI • Robotics • Computer Vision • Embedded Systems
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=srivastavaraj37&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaraj37&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=srivastavaraj37&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaraj37&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=srivastavaraj37&theme=tokyonight&hide_border=true"/>
-
+<img width="95%" src="https://streak-stats.demolab.com?user=srivastavaraj37&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaraj37&theme=tokyo-night&hide_border=true"/>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaraj37&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -80,11 +78,11 @@ AI • Robotics • Computer Vision • Embedded Systems
 ### 🤖 Balancing Builder Bot
 > **e-Yantra Robotics Competition (IIT Bombay)**
 
-- Self-balancing autonomous robot built using **Arduino Nano**, **MPU6050**, and **300 RPM N20 geared motors**.
+- Self-balancing autonomous robot using **Arduino Nano**, **MPU6050**, and **300 RPM N20 geared motors**.
 - Implemented **real-time PID control** for dynamic balancing and smooth motion.
 - Supports autonomous navigation, object pickup, and transportation.
 - Designed under strict embedded hardware constraints.
-- **Tech:** `Arduino` • `C++` • `PID Control` • `MPU6050` • `Embedded Systems`
+- **Tech:** `Arduino` • `C++` • `PID Control` • `MPU6050`
 
 🎥 **Demo:** https://www.youtube.com/watch?v=4wdXCuPUqr4
 
@@ -99,7 +97,7 @@ AI • Robotics • Computer Vision • Embedded Systems
 - Explores unknown mazes using the **Trémaux Algorithm** and builds an internal map.
 - Computes the shortest route using the **Flood Fill Algorithm**.
 - Supports dynamic obstacle detection and real-time path replanning.
-- **Tech:** `ESP32` • `Embedded C++` • `Flood Fill` • `Trémaux` • `Sensor Fusion`
+- **Tech:** `ESP32` • `Embedded C++` • `Flood Fill` • `Trémaux`
 
 🎥 **Demo:** https://drive.google.com/file/d/1Y3SoVk7yhP7JwMxXjzXYTzWj-ubeMt1x/view
 
@@ -107,7 +105,7 @@ AI • Robotics • Computer Vision • Embedded Systems
 
 ---
 
-# 💻 My Coding Profiles
+# 💻 My Coding Profile
 
 <p align="center">
 
