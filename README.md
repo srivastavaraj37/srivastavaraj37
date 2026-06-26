@@ -25,7 +25,7 @@
 
 - 🤖 Passionate about combining **AI, Robotics, and Embedded Systems** to build intelligent real-world solutions.
 - 🎯 Focused on developing autonomous systems that seamlessly integrate hardware and software.
-- 🏆 **e-Yantra Robotics Finalist**
+- 🏆 **e-Yantra Robotics 1st Runner up**
 - 🥇 **Winner - Gujarat Robofest 5.0**
 - ⚙️ I enjoy designing complete robotic systems - from hardware and embedded firmware to intelligent software.
 - 🌱 Currently learning **ROS2, Machine Learning, Deep Learning, and Computer Vision**.
